@@ -3046,6 +3046,14 @@ input::-moz-focus-inner {
   position: relative;
 }
 
+.a-new {
+border-radius: 15px;
+  background: #cc0052;
+  padding: 10px;
+  width: 180px;
+  height: 50px;
+}
+
 .testimonials p {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
